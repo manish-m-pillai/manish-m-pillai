@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Manish M Pillai</h1>
 <h3 align="center">A passionate Software Engineer developer from India</h3>
-<img align="right" alt="coding" width="600" src="Hacking.gif" />
+<img align="right" alt="coding" width="400" src="Hacking.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manish-m-pillai&label=Profile%20views&color=0e75b6&style=flat" alt="manish-m-pillai" /> </p>
 
-- 🌱 I’m currently learning **Java,C++,Python,Mathematics,DSA,Web Development,Ethical Hacking,Machine Learning,AI and Data Science..**
+- 🌱 I’m currently learning **Java,C++,Python,Mathematics,DSA,Web Development,Ethical Hacking,Machine Learning,AI and Data Science.**
 
 - 📫 How to reach me **manishpillai64@gmail.com**
 
