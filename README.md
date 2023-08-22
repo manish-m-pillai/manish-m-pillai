@@ -1,3 +1,4 @@
+<img src="MANISH M PILLAI.png" alt="Banner" width="1000px" height="250px"/>
 <h1 align="center">Hi 👋, I'm Manish M Pillai</h1>
 <h3 align="center">A passionate Software Engineer developer from India</h3>
 <img align="right" alt="coding" width="400" src="Hacking.gif" />
